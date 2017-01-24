@@ -1,0 +1,8 @@
+EX 1.31: int, string, int, int, boolean, string, double
+EX 1.32: Add the following code to the declarations: private String name;
+	Then add a public mutator method to set the value of name. You could also
+	add a section to the constructor to give it a default value.
+EX 1.33: public void send (String myParameter)
+EX 1.34: public int average (int myFirstParameter, int mySecondParameter)
+EX 1.35: It is an object of class Book.
+EX 1.36: An object could be made from a class that inherits from another class.
